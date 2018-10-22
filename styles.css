@@ -1,0 +1,26 @@
+body{
+	background-color: pink;
+}
+ul{
+	list-style-type: circle;
+	list-style-position: inside;
+    margin: 5;
+}
+em{
+	color: black;
+}
+li{
+	color: purple;
+	text-align: center;
+}
+h2{
+	border: solid violet;
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+h1{
+	border: solid violet;
+	text-align: center;
+}
